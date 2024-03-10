@@ -1,4 +1,3 @@
-# File:CS112_A1_T2_2_20230397.py.
 # purpose: is to get three numbers from two players and if any one of them get 15 first ,then he is the winner
 # Author: Mariam Mohamed Ahmed Elsawy
 # ID: 20230397
