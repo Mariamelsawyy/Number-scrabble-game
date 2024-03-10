@@ -1,6 +1,5 @@
 # purpose: is to get three numbers from two players and if any one of them get 15 first ,then he is the winner
-# Author: Mariam Mohamed Ahmed Elsawy
-# ID: 20230397
+
 list_numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9] #list which the players must choose a number from it
 sum1 = 0 # sum of player1
 sum2 = 0 # sum of player2
